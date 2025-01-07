@@ -8,6 +8,9 @@ This repository contains a Jupyter Notebook implementation of the Contrast Trans
 
 ![2D-CTF](screenshot2.png)
 
+## Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mingleizhao/ctf_notebook/main)
+
 ## Acknowledgements
 - This project was initially assisted by UChicago undergraduates David Pan and Kyle Oleksiuk.
 - For questions, comments, or bug reports, please email mlzhao@uchicago.edu.
