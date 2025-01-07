@@ -4,8 +4,6 @@ This repository contains a Jupyter Notebook implementation of the Contrast Trans
 ## Screenshots
 ![1D-CTF](screenshot1.png)
 
----
-
 ![2D-CTF](screenshot2.png)
 
 ## Binder
